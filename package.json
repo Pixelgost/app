@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@expo/webpack-config": "^0.17.4",
+    "expo-file-system": "^15.2.2",
+    "expo-image": "~1.0.1",
+    "expo-image-picker": "~14.1.1",
+    "expo-media-library": "^15.2.3",
+    "expo-sharing": "^11.2.2",
+    "fs": "^0.0.1-security",
+    "picker": "^0.1.4",
+    "react-dom": "^18.2.0",
+    "react-native-icons": "^0.7.1",
+    "react-native-select-dropdown": "^3.3.3",
+    "react-native-web": "^0.19.4"
+  }
+}
